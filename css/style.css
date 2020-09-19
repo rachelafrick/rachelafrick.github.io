@@ -12,12 +12,12 @@ raisin black: 1D1E2C
 body {
   margin: 25px;
   background-color: #F7EBEC;
-  font-size: 14px
+  font-size: 14px;
 }
 
 header{
   color: #235789;
-  font-size: 32px
+  font-size: 32px;
 
 }
 
@@ -30,7 +30,7 @@ table {
 }
 
 table, tr, td {
-  color: #DDBDD5
+  color: #DDBDD5;
   border: 1px solid black;
 }
 
