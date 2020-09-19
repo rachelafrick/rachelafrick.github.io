@@ -13,12 +13,15 @@ body {
 }
 
 header{
-  color: #235789;
-  font-size: 32px;}
-
-footer{
-  color: #235789;
+  background-color: #235789;
+  color: #DDBDD5;
+  font-size: 32px;
 }
 
-table {
+footer{
+  background-color: #235789;
+  color: #DDBDD5;
+}
+
+table, td {
   border: 1px solid black;}
