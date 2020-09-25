@@ -7,6 +7,7 @@ raisin black: 1D1E2C
 */
 
 body {
+  font-family: 'Baloo Tammudu 2', sans-serif;
   margin: 25px;
   background-color: #F7EBEC;
   font-size: 14px;
@@ -42,4 +43,9 @@ h2{
    border-width: 6px;
    padding: 25px;
    margin: 20px;
+}
+
+section{
+   padding: 25px;
+
 }
