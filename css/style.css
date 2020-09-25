@@ -18,19 +18,28 @@ header{
   font-size: 32px;
 }
 
+.subtitle {
+  color: #AC9FBB;
+  font-size: 20px;
+}
+
+a:visited {
+  color: #235789;
+}
+
 footer{
   background-color: #235789;
   color: #DDBDD5;
+  font-size: 18px;
 }
 
 table, td {
   border: 1px solid black;}
 
 h2{
-   
    border-style: ridge;
    border-color: #235789;
-   border-width: 4px;
-   padding: 50px;
+   border-width: 6px;
+   padding: 25px;
    margin: 20px;
 }
