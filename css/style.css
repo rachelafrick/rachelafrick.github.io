@@ -25,3 +25,11 @@ footer{
 
 table, td {
   border: 1px solid black;}
+
+h2{
+   border-color: #235789;
+   border-style: ridge;
+   border: 4px;
+   padding: 50px;
+   margin: 20px;
+}
