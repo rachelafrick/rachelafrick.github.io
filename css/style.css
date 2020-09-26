@@ -20,6 +20,7 @@ header{
 }
 
 .subtitle {
+  margin: 0;
   text-indent: 50px;
   color: #AC9FBB;
   font-size: 20px;
