@@ -20,8 +20,10 @@ header{
 }
 
 .subtitle {
+  text-indent: 50px;
   color: #AC9FBB;
   font-size: 20px;
+
 }
 
 a:visited {
@@ -35,7 +37,8 @@ footer{
 }
 
 table, td {
-  border: 1px solid black;}
+  border: 1px solid black;
+  border-collapse: collapse;}
 
 h2{
    border-style: ridge;
