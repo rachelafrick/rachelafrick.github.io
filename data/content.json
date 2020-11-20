@@ -1,0 +1,41 @@
+[
+  {
+    "author": "Author",
+    "date": "Date",
+    "time": "Time",
+    "title": "Title",
+    "content": [
+      "Content"
+    ]
+  },
+  {
+    "author": "Rachel Africk",
+    "date": "November 5, 2020",
+    "time": "9:56am",
+    "title": "Paper vs. Online",
+    "content": [
+      "My first exposure to crossword puzzles was probably similar to yours. For me, this was in the Arts section of the New York Times. Crosswords were something done in newspapers, or at the very least on paper. There was the physical action of crossing off clues once I completed them, and the slight panic upon realizing I filled out a section wrong, in pen nonethess. However, this was all part of the game.",
+      "That is, until I began doing the puzzles online. I use the NYT Crossword app, which just requires a subscription to the paper. And let me tell you, it's a whole new ballgame. Rather than seeing all the clues at once, you are presented with them one at a time as it highlights the area you are filling in. And, if you get stuck, there is an option to check a letter, word, or even the whole puzzle. The most authentic crossword solving experience? Perhaps not. More fun? For me, yes."
+    ]
+  },
+  {
+    "author": "Rachel Africk",
+    "date": "November 5, 2020",
+    "time": "10:27am",
+    "title": "My Strategy",
+    "content": [
+      "As discussed in the previous blog post, I usually complete crosswords on the NYT app rather than on paper. However, you may have noticed that most articles giving strategy advice are geered toward solving on paper. For example, does it still make sense to start with fill-in-the-blank answers when you would have to click through every single one to find them? For me, the answer is no. Here is my step by step process for solving.",
+      "I begin with the across clues in order, filling in what I know. If there is something you are unsure of, but have an idea about, there is usually another color you can write the word in to indicate that. Personally, I usually just fill it in anyway and delete later if need be. Then, I repeat with the down clues, changing any of the across ones if necessary. After this point is when I usually begin solving by section, looking for areas where we have more letters filled in already to use as hints. Depending on the day of the week, I will use the check feature if I am stuck. After you have filled in everything you think you can, I would recommend stepping away from the puzzle for a few minutes. I find that after this break I am usually able to find something new that I couldn't see before. Repeat until you have solved the puzzle!"
+    ]
+  },
+  {
+    "author": "Rachel Africk",
+    "date": "November 5, 2020",
+    "time": "12:00pm",
+    "title": "When You're Stuck",
+    "content": [
+      "We've all been there: You are trying to solve the latest crossword and you simply cannot think of anything else you know. One trick I have for these moments is trying to fill in letters, even if not words. For example, does the clue imply that the answer will be plural? Fill in an 's' at the end! Is the clue in the past tense? See if you can end your word with 'ed'! Even though it may seem small, these letters can be key in providing hints to other words.",
+      "Another big hint is language. If the clue is in spanish, it's likely time to bring out your own spanish skills. Finally, it's important to consider that you may not be pronouncing the word as intended. Try to put the emphasis on a different syllable, and see if a new meaning is revealed to you. Especially later in the week, the writers will design tricks like this to throw you off of your game!"
+    ]
+  }
+]

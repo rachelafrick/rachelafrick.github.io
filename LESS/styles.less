@@ -6,34 +6,48 @@ bdazzled blue: 235789
 raisin black: 1D1E2C
 */
 
+@blush : #F7EBEC;
+@thistle : #DDBDD5;
+@grape : #AC9FBB;
+@navy : #235789;
+@black :  #1D1E2C;
+
 body {
   font-family: 'Baloo Tammudu 2', sans-serif;
   margin: 25px;
-  background-color: #F7EBEC;
+  background-color: @blush;
   font-size: 14px;
 }
 
 header{
-  background-color: #235789;
-  color: #DDBDD5;
+  background-color: @navy;
+  color: @thistle;
   font-size: 32px;
 }
 
 .subtitle {
   margin: 0;
   text-indent: 50px;
-  color: #AC9FBB;
+  color: @grape;
   font-size: 20px;
 
 }
 
+.links{
+  border-style: ridge;
+  border-color: @navy;
+  border-width: 6px;
+  padding: 25px;
+  margin: 20px;
+}
+
 a:visited {
-  color: #235789;
+  color: darken(@navy, 50%);
 }
 
 footer{
-  background-color: #235789;
-  color: #DDBDD5;
+  background-color: @navy;
+  color: @thistle;
   font-size: 18px;
 }
 
@@ -42,11 +56,7 @@ table, td {
   border-collapse: collapse;}
 
 h2{
-   border-style: ridge;
-   border-color: #235789;
-   border-width: 6px;
-   padding: 25px;
-   margin: 20px;
+   .links();
 }
 
 section{

@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="text/html" http-equiv="Content-type">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>Crossword Puzzles</title>
+  <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+  <meta name="description" content="Hello World">
+  <meta name="author" content="You">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <%- include('global/navbar'); %>
+  <%- include('global/header'); %>
+  <script src="js/scripts.js"></script>
+
+  <div class="row">
+    <div class="col-sm-4">
+      <h2>Quick Tips</h2>
+      <p>Watch this quick video for some beginner tips on puzzle solving. </p>
+      <iframe width="400" height="315" src="https://www.youtube.com/embed/edgpOYJKxfw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm-4">
+      <h2>Try it yourself!</h2>
+      <p>Try this Tuesday puzzle to test your skills!</p>
+      <img src="images/crossword.jpeg" width="400" height="315">
+
+
+    </div>
+    <div class="col-sm-4">
+      <h2>Review in Depth</h2>
+      <p>Listen as this podcast walks you through the steps to solving a week of recent puzzles.</p>
+      <iframe src="https://fireside.fm/player/v2/v5CJgS1_+ojUL3p4g?theme=dark" width="400" height="100" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
+
+  <%- include('global/footer'); %>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+</body>
+
+</html>
